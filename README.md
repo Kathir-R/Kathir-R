@@ -31,7 +31,7 @@
 ### [Green Route – Connects farmers directly to consumers](https://github.com/Kathir-R/Green-Route.git)
 > To connect farmers directly with consumers, eliminating middlemen, ensuring fair pricing and providing fresh products.
 >
-> `Flutter . Dart . Java . Firebase . Firestore`
+> `Flutter . Dart . Java . Firebase . Firestore . RiverPod`
 
 ### [Food Connect – Salesforce app to redistribute leftover food](https://github.com/Kathir-R/To-Supply-Leftover-Food-to-Poor.git)
 > This project leverages Salesforce to create a platform for efficiently collecting and distributing leftover food to underprivileged individuals. The system connects food donors such as restaurants, events or households with NGOs or volunteers who distribute the food to those in need.
